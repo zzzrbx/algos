@@ -5,16 +5,7 @@ Integrate-and-fire oscillators on a spatial network. Each charges to threshold,
 fires, and nudges its neighbours ahead; the concave response makes the whole
 population fire in unison — the "fireflies blinking together" effect.
 
-<!-- Inline preview: in GitHub's web editor, drag-drop media/videos/strogatz-mirollo.mp4 onto the blank line below, then commit. -->
-
-
 https://github.com/user-attachments/assets/2e07ef33-0ac4-47c3-8ad1-0addf162710f
-
-
-
-
-
-📺 [Watch on YouTube](https://youtu.be/FBZFLLZtTB4)
 
 📄 Papers:
 - Mirollo, Renato E., and Steven H. Strogatz. "Synchronization of pulse-coupled biological oscillators." _SIAM Journal on Applied Mathematics_ 50.6 (1990): 1645–1662.
@@ -25,16 +16,7 @@ Nodes on a random geometric graph each start with a distinct colour. One at a ti
 a node copies a random neighbour's colour. Local agreement spreads until the whole
 network reaches a single consensus colour (the voter model).
 
-<!-- Inline preview: in GitHub's web editor, drag-drop media/videos/voting.mp4 onto the blank line below, then commit. -->
-
-
 https://github.com/user-attachments/assets/0e058c65-a788-45af-8744-a916c4238187
-
-
-
-
-
-📺 [Watch on YouTube](https://youtu.be/ePzWAPc2bIs)
 
 📄 Papers:
 - Aldous, David. "Random walks on finite groups and rapidly mixing Markov chains." _Séminaire de Probabilités XVII 1981/82: Proceedings_. Berlin, Heidelberg: Springer, 2006. 243–297.
@@ -45,14 +27,7 @@ Coupled phase oscillators on a ring. Each oscillator nudges the others toward it
 phase; above a coupling threshold they spontaneously lock into a common rhythm.
 Shown as uncoupled vs. coupled side by side.
 
-<!-- Inline preview: in GitHub's web editor, drag-drop media/videos/kuramoto.mp4 onto the blank line below, then commit. -->
-
-
 https://github.com/user-attachments/assets/7576cc8e-41c4-4443-a726-f3904d3e195c
-
-
-
-📺 [Watch on YouTube](https://youtu.be/jMEuuWgZv_4)
 
 📄 Papers:
 - Kuramoto, Yoshiki. "Collective synchronization of pulse-coupled oscillators and excitable units." _Physica D: Nonlinear Phenomena_ 50.1 (1991): 15–30.
@@ -66,4 +41,3 @@ uv run python scripts/run_script.py scripts/<algo>.py --quality fourk --output <
 # all scenes
 uv run python scripts/run_all.py --quality fourk
 ```
-
