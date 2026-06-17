@@ -5,7 +5,10 @@ Integrate-and-fire oscillators on a spatial network. Each charges to threshold,
 fires, and nudges its neighbours ahead; the concave response makes the whole
 population fire in unison — the "fireflies blinking together" effect.
 
-📺 YouTube: https://youtu.be/FBZFLLZtTB4
+<!-- Inline preview: in GitHub's web editor, drag-drop media/videos/strogatz-mirollo.mp4 onto the blank line below, then commit. -->
+
+
+📺 [Watch on YouTube](https://youtu.be/FBZFLLZtTB4)
 
 📄 Papers:
 - Mirollo, Renato E., and Steven H. Strogatz. "Synchronization of pulse-coupled biological oscillators." _SIAM Journal on Applied Mathematics_ 50.6 (1990): 1645–1662.
@@ -16,7 +19,10 @@ Nodes on a random geometric graph each start with a distinct colour. One at a ti
 a node copies a random neighbour's colour. Local agreement spreads until the whole
 network reaches a single consensus colour (the voter model).
 
-📺 YouTube: https://youtu.be/ePzWAPc2bIs
+<!-- Inline preview: in GitHub's web editor, drag-drop media/videos/voting.mp4 onto the blank line below, then commit. -->
+
+
+📺 [Watch on YouTube](https://youtu.be/ePzWAPc2bIs)
 
 📄 Papers:
 - Aldous, David. "Random walks on finite groups and rapidly mixing Markov chains." _Séminaire de Probabilités XVII 1981/82: Proceedings_. Berlin, Heidelberg: Springer, 2006. 243–297.
@@ -27,7 +33,10 @@ Coupled phase oscillators on a ring. Each oscillator nudges the others toward it
 phase; above a coupling threshold they spontaneously lock into a common rhythm.
 Shown as uncoupled vs. coupled side by side.
 
-📺 YouTube: https://youtu.be/jMEuuWgZv_4
+<!-- Inline preview: in GitHub's web editor, drag-drop media/videos/kuramoto.mp4 onto the blank line below, then commit. -->
+
+
+📺 [Watch on YouTube](https://youtu.be/jMEuuWgZv_4)
 
 📄 Papers:
 - Kuramoto, Yoshiki. "Collective synchronization of pulse-coupled oscillators and excitable units." _Physica D: Nonlinear Phenomena_ 50.1 (1991): 15–30.
