@@ -8,6 +8,8 @@ population fire in unison — the "fireflies blinking together" effect.
 <!-- Inline preview: in GitHub's web editor, drag-drop media/videos/strogatz-mirollo.mp4 onto the blank line below, then commit. -->
 
 
+
+
 📺 [Watch on YouTube](https://youtu.be/FBZFLLZtTB4)
 
 📄 Papers:
@@ -22,6 +24,8 @@ network reaches a single consensus colour (the voter model).
 <!-- Inline preview: in GitHub's web editor, drag-drop media/videos/voting.mp4 onto the blank line below, then commit. -->
 
 
+
+
 📺 [Watch on YouTube](https://youtu.be/ePzWAPc2bIs)
 
 📄 Papers:
@@ -34,6 +38,10 @@ phase; above a coupling threshold they spontaneously lock into a common rhythm.
 Shown as uncoupled vs. coupled side by side.
 
 <!-- Inline preview: in GitHub's web editor, drag-drop media/videos/kuramoto.mp4 onto the blank line below, then commit. -->
+
+
+https://github.com/user-attachments/assets/509d87a6-1ec7-4956-8bac-1922fb19fa80
+
 
 
 📺 [Watch on YouTube](https://youtu.be/jMEuuWgZv_4)
