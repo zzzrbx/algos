@@ -52,10 +52,6 @@ https://github.com/user-attachments/assets/7576cc8e-41c4-4443-a726-f3904d3e195c
 
 
 
-https://github.com/user-attachments/assets/509d87a6-1ec7-4956-8bac-1922fb19fa80
-
-
-
 📺 [Watch on YouTube](https://youtu.be/jMEuuWgZv_4)
 
 📄 Papers:
